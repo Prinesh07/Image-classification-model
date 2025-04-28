@@ -1,6 +1,6 @@
 # 🍎 Fruit and Vegetable Image Classification Model 🥦
 
-![Model Overview](https://www.example.com/path/to/your/model_overview_image.jpg)
+
 *An AI model that classifies images of fruits and vegetables with high accuracy.*
 
 ---
